@@ -1,1 +1,1 @@
-﻿# LeetCodeProblems(LC) & CodingNinjas(CN)
+﻿# LeetCode(LC) & CodingNinjas(CN)
