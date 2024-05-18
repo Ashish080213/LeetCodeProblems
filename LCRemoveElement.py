@@ -12,7 +12,7 @@
 #             length = len(nums)
 
 
-# Optimal Solution but didnot got optimised output.
+# Optimal Solution but didnot get optimised output.
 
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
